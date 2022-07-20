@@ -1,0 +1,1 @@
+If the install.bat doesnt work, open up the exe! :)
